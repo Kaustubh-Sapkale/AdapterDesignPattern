@@ -1,9 +1,12 @@
 # Adapter Design Pattern
 The adapter design pattern is a software design pattern that allows objects with incompatible interfaces to work together. This is done by creating a wrapper object that translates between the two interfaces.
-
-Example
-This project demonstrates the adapter design pattern with a simple example. The Car class has two methods: Move() and Stop(). The IRailAdapter interface also has two methods: Move() and Stop(). However, the two interfaces are incompatible.
-
+---
+### Example
+- This project demonstrates the adapter design pattern with a simple example. 
+- The Car class has two methods: Move() and Stop(). 
+- The IRailAdapter interface also has two methods: Move() and Stop().
+-  However, the two interfaces are incompatible.
+---
 The RailAdapter class is a wrapper class that adapts the Car class to the IRailAdapter interface. When the Move() method is called on the RailAdapter class, it calls the Move() method on the Car class and then translates the result to the IRailAdapter interface.
 
 Usage
