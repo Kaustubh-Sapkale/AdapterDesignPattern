@@ -7,10 +7,16 @@ namespace Adapter
     {
         static void Main(string[] args)
         {
+            // Create a new Car object.
             Car car = new Car();
+
+            // Create a new RailAdapter object with the Car object.
             IRailAdapter railAdapter = new RailAdapter(car);
-            // Adaptee interface is incompatible with the client. But with adapter client can call it's method
+
+            // Move the car on a rail.
             Console.WriteLine(railAdapter.Move());
+
+            // Stop the car on a rail.
             Console.WriteLine("after moving some distance");
             Console.WriteLine(railAdapter.Stop());
         }
