@@ -1,0 +1,14 @@
+D:\software-engineering\AdapterDesignPattern\Adapter\bin\Debug\net6.0\Adapter.exe
+D:\software-engineering\AdapterDesignPattern\Adapter\bin\Debug\net6.0\Adapter.deps.json
+D:\software-engineering\AdapterDesignPattern\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+D:\software-engineering\AdapterDesignPattern\Adapter\bin\Debug\net6.0\Adapter.dll
+D:\software-engineering\AdapterDesignPattern\Adapter\bin\Debug\net6.0\Adapter.pdb
+D:\software-engineering\AdapterDesignPattern\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\software-engineering\AdapterDesignPattern\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+D:\software-engineering\AdapterDesignPattern\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+D:\software-engineering\AdapterDesignPattern\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+D:\software-engineering\AdapterDesignPattern\Adapter\obj\Debug\net6.0\Adapter.dll
+D:\software-engineering\AdapterDesignPattern\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+D:\software-engineering\AdapterDesignPattern\Adapter\obj\Debug\net6.0\Adapter.pdb
+D:\software-engineering\AdapterDesignPattern\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+D:\software-engineering\AdapterDesignPattern\Adapter\obj\Debug\net6.0\ref\Adapter.dll
